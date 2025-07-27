@@ -46,10 +46,19 @@ Learning Platform: [Source Academy](sourceacademy.nus.edu.sg/nus_login)
 
 Introduction to Coding/Source, understanding variables and functions, going further to touch on Streams and Metacircular Evaluator
 
+<!--
+Topics:\
+Abstraction\
+Objects\
+Lazy Evaluation & Streams\
+Environment Model\
+CSE Machine
+-->
+
 Workload: 4 / 5 \
 Lectures: Recorded Zoom lecture\
 Tutorials: Questions gets harder, also serves as post lecture studies. [My TA's tutorial slides.](https://github.com/mongj/cs1101s-ay2425-studio-slides)\
-Recitations: Mini Lecture\
+Recitations: Mini Lecture, repeat of Zoom Lecture, more doing than learning\
 Paths: Easy post lecture quizzes\
 Missions: Medium, doable tasks related to lecture content\
 Quests (Optional): Additional challenges for your understanding. Time consuming but valuable learning opportunity.
@@ -60,28 +69,87 @@ Having programming background is a big plus to becoming comfortable in this Mod,
 You are at little disadvantage if you take this course without programming background as we start from the basics. The most difficult part of this mod is getting used to the workflow, understanding that the computer follow your codes/instructions to the tee, and most importantly, learning how to debug your code.
 
 ### CS1231S
+Learning Platform: Canvas
+
+Covers Mathematical Logic operations, laws and theorems, and proofs.
+
+<!--
+Topics:\
+-->
+
+Workload: 3-4 / 5\
+Lectures: Recorded Zoom + Physical Lecture\
+Tutorials: Using lecture materials to lead to more theorems.\
+Assignments: Applying Laws and Theorems from Lecture and Tutorials to complete harder / more tedious proofs.
+
+My opinion:\
+Despite being CS coded but it's all Math. The first half of the mod can get very pedantic so it leaves very little room for error; The second half of the mod builds on the foundations learnt in first half of the semester, but proofs/theorems could be sometimes incomplete. I was lucky to have a math god to save me when I didn't understand the topics, but you can find your TAs to help. 
 
 ### MA1521
 
+<!--
+Topics:\
+-->
+
 ### MA1522
+
+<!--
+Topics:\
+-->
 
 ### ST1131
 
+<!--
+Topics:\
+-->
+
 ### CFG1002
+
+<!--
+Topics:\
+-->
 
 ## 24/25 Sem 2 (Y2)
 
 ### CS2030S
 [Online Textbook on CS2030S Github Page](https://nus-cs2030s.github.io/2425-s2/index.html)
 
+<!--
+Topics:\
+-->
+
 ### CS2040S
+
+<!--
+Topics:\
+-->
 
 ### CS2100
 
+<!--
+Topics:\
+-->
+
 ### HSI1000
+
+<!--
+Topics:\
+-->
 
 ### IS1108
 
+<!--
+Topics:\
+-->
+
 ### ES2660
 
+<!--
+Topics:\
+-->
+
 ### GEC1015
+
+<!--
+Topics:\
+-->
