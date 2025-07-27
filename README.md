@@ -56,7 +56,6 @@ Quests (Optional): Additional challenges for your understanding. Time consuming 
 
 ### CS1231S
 
-
 ### MA1521
 
 ### MA1522
