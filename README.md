@@ -52,7 +52,12 @@ Tutorials: Questions gets harder, also serves as post lecture studies. [My TA's 
 Recitations: Mini Lecture\
 Paths: Easy post lecture quizzes\
 Missions: Medium, doable tasks related to lecture content\
-Quests (Optional): Additional challenges for your understanding. Time consuming but valuable learning opportunity.\
+Quests (Optional): Additional challenges for your understanding. Time consuming but valuable learning opportunity.
+
+My opinion:\
+The idea of this mod is to build your programming foundations.\
+Having programming background is a big plus to becoming comfortable in this Mod, but may be disadvantageous if you get cocky and not study the materials properly.\
+You are at little disadvatage without programming background as we start from the basics. The most difficult part of this mod is getting used to the workflow, understanding that the codes follow your instructions to the tee, and most importantly, learning how to debug your code.
 
 ### CS1231S
 
