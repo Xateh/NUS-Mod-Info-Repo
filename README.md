@@ -13,6 +13,20 @@ For Study Tips/Career Planning:\
 For Finding CS Notes:\
 [Link to Github Repo Search for "NUS CS Notes"](https://github.com/search?q=NUS%20CS%20Notes&type=repositories)
 
+For Planning your NUS Mods:\
+[Link to NUSMods](https://nusmods.com/timetable/sem-1)
+
+### Useful NUS Applications
+
+A collection of Many Useful Shortcuts/Tools:\
+[uNivUS (Apple)](https://apps.apple.com/sg/app/univus/id1508660612)
+
+Internal Shuttle Bus (ISB) Timings/Map:
+[NUS Nextbus (Apple)](https://apps.apple.com/sg/app/nus-nextbus/id542131822)
+
+Food Order within NUS:
+[NUSmart Dining (Apple)](https://apps.apple.com/sg/app/nusmart-dining/id1524406881)
+
 ### PDFs
 
 For ease of use, all summary and cheatsheet documents are provided as PDFs. Add an issue for their original versions (Word Documents).
