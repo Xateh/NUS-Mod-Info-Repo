@@ -14,7 +14,9 @@ For Finding CS Notes:\
 [Link to Github Repo Search for "NUS CS Notes"](https://github.com/search?q=NUS%20CS%20Notes&type=repositories)
 
 For Planning your NUS Mods:\
-[Link to NUSMods](https://nusmods.com/timetable/sem-1)
+[Link to NUSMods](https://nusmods.com/timetable/sem-1)\
+[Link to Github Repo for a NUS Mod Timetable Generator](
+https://github.com/ZSDcode/AutoTimeTablerNUS)
 
 ### Useful NUS Applications
 
