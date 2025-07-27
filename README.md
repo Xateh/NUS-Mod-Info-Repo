@@ -42,7 +42,7 @@ A custom Microsoft Words template for my Summary & Cheatsheet documents. Tables 
 ## 24/25 Sem 1 (Y1)
 
 ### CS1101S
-Learning Platform: Sourceacademy
+Learning Platform: [Source Academy](sourceacademy.nus.edu.sg/nus_login)
 
 Introduction to Coding/Source, understanding variables and functions, going further to touch on Streams and Metacircular Evaluator
 
