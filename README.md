@@ -2,6 +2,17 @@
 
 ## General
 
+### NUS Mod Resources
+
+For PYP Slides/Exam Papers:\
+[Link to NUS Holy Grail Google Drive](https://drive.google.com/drive/folders/17vnp5FksIICBHEDaDet8SaDbKMrMtdvu)
+
+For Study Tips/Career Planning:\
+[Link to notes-to-cs-freshmen-from-the-future](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future)
+
+For Finding CS Notes:\
+[Link to Github Repo Search for "NUS CS Notes"](https://github.com/search?q=NUS%20CS%20Notes&type=repositories)
+
 ### PDFs
 
 For ease of use, all summary and cheatsheet documents are provided as PDFs. Add an issue for their original versions (Word Documents).
@@ -21,7 +32,7 @@ Introduction to Coding/Source, understanding variables and functions, going furt
 
 Workload: 4 / 5 \
 Lectures: Recorded Zoom lecture\
-Tutorials: Questions gets harder, also serves as post lecture studies.\
+Tutorials: Questions gets harder, also serves as post lecture studies. [My TA's tutorial slides.](https://github.com/mongj/cs1101s-ay2425-studio-slides)\
 Recitations: Mini Lecture\
 Paths: Easy post lecture quizzes\
 Missions: Medium, doable tasks related to lecture content\
